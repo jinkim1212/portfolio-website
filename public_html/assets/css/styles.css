@@ -1,0 +1,15 @@
+/*==== GOOGLE FONTS ====*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+/*===== BASE =====*/
+*,::before,::after{
+    box-sizing: border-box;
+  }
+  
+  html{
+    scroll-behavior: smooth;
+  }
+
+  body{
+    font-family: 'Poppins', sans-serif;
+  }
