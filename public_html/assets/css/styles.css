@@ -13,3 +13,37 @@
   body{
     font-family: 'Poppins', sans-serif;
   }
+
+/* ===== HEADER ===== */
+.top-header{
+    background-color: aqua;
+}
+
+
+/* ===== NAV ===== */
+.nav-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-logo{
+    margin: 1rem;
+}
+
+.nav-menu{
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+}
+
+.nav-list{
+    display: flex;
+    width: auto;
+}
+
+.nav-list-item{
+    margin: 1rem;
+}
