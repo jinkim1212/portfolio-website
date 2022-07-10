@@ -30,6 +30,7 @@
 
 .nav-logo{
     margin: 1rem;
+    text-decoration: none;
 }
 
 .nav-menu{
@@ -46,4 +47,9 @@
 
 .nav-list-item{
     margin: 1rem;
+    list-style: none;
+}
+
+.nav-list-item-link{
+    text-decoration: none;
 }
